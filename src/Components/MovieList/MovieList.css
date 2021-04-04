@@ -1,0 +1,10 @@
+.moviesList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.moviesList > * {
+    margin: 10px;
+}

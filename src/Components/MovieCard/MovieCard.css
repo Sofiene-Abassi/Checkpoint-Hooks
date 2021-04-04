@@ -1,0 +1,14 @@
+.movieCard {
+    width: 18rem;
+    box-shadow: 0 0 7px;
+    height: 45rem;
+}
+.MovieImg {
+    height: 50%;
+}
+
+.MovieBody {
+    color: rgb(165, 26, 26);
+    font-family: "Arial";
+    text-align: center;
+}
